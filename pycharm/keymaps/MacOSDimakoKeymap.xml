@@ -1,0 +1,79 @@
+<keymap version="1" name="Mac OS Dimako Keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta b" />
+  </action>
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="CopyReferencePopupGroup">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="meta button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="meta button143" />
+  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorPasteFromX11" />
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="meta button2" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift meta f7" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta page_down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="meta page_up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta page_down" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="meta page_up" />
+  </action>
+  <action id="ShowBlankDiffWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt b" />
+  </action>
+  <action id="Uml.ShowDiff" />
+</keymap>
