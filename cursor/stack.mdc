@@ -1,4 +1,6 @@
 # Technical stack
+# Origin: https://www.youtube.com/watch?v=YWwS911iLhg&ab_channel=MatthewBerman
+
 - Python for the backend -html/js for the frontend
 - SQL databases, never JSON file storage
 - Separate databases for dev, test, and prod
